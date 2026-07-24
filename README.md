@@ -138,16 +138,16 @@ ESP32 • Arduino • MQ-135 • IoT
 
 # 📫 Connect With Me
 
-💼 **LinkedIn**  
+ **LinkedIn**  
 💼 [LinkedIn](https://www.linkedin.com/in/srushti-dedaniya-30b959326/)
 
-📷 **Instagram**  
+ **Instagram**  
 📷 [srushtipatel_0926](https://www.instagram.com/srushtipatel_0926/?hl=en)
 
 📧 **Email**  
 srushtidedaniya@gmail.com
 
-🌐 **GitHub**  
+ **GitHub**  
 💻 [srushti-dedaniya](https://github.com/srushti-dedaniya)
 
 📍 Mumbai, India
