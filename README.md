@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Srushti Dedaniya
 
-🚀 Computer Engineering Student | Android Developer | AI & NLP Enthusiast | Full-Stack Learner
+🚀 Computer Engineering Student | Android & Web Developer | AI & NLP Enthusiast | Full-Stack Developer
 
 I'm a Computer Engineering student from Mumbai passionate about building innovative software solutions that solve real-world problems. I enjoy working on Android applications, AI-powered systems, NLP, full-stack development, and user-friendly digital experiences.
 
