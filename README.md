@@ -113,6 +113,8 @@ Air purifier and environmental monitoring system using ESP32 sensors to detect a
 
 ESP32 • Arduino • MQ-135 • IoT
 
+## Gujarati HealthCare Assistant
+
 ---
 
 # 🏆 Achievements
