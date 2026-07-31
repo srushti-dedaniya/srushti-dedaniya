@@ -48,7 +48,7 @@ I'm a Computer Engineering student from Mumbai passionate about building innovat
 ## 🤖 AI / ML
 
 - Natural Language Processing (NLP)
-- Machine Learning
+- Machine Learning (ML)
 - Transformers
 - BERT
 - Scikit-Learn
