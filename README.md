@@ -153,8 +153,6 @@ srushtidedaniya@gmail.com
  **GitHub**  
 💻 [srushti-dedaniya](https://github.com/srushti-dedaniya)
 
-
-
 📍 Mumbai, India
 
 ## ⚡ Fun Fact
